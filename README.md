@@ -9,10 +9,10 @@ This site is comprised of:
     - a footer with a message
     - media queries to demonstrate understanding of window size change
 
-Screenshot of my page: 
-https://github.com/MarSarain1919/MKS-Portfolio/blob/d9022f1471321aa2c792c8cadeca9c27c1c0cb5e/assets/css/portfolio-screencap.png
+<!-- Screenshot of my page: 
+https://github.com/MarSarain1919/MKS-Portfolio/blob/d9022f1471321aa2c792c8cadeca9c27c1c0cb5e/assets/css/portfolio-screencap.png -->
 
-Live link: https://marsarain1919.github.io/MKS-Portfolio/
+<!-- Live link: https://marsarain1919.github.io/MKS-Portfolio/ -->
 
-GitHub link: https://github.com/MarSarain1919/MKS-Portfolio
+GitHub link: https://github.com/MKatSarain/MKS-Portfolio
 
